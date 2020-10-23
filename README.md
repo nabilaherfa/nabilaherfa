@@ -5,6 +5,7 @@
  - 🌱 I’m currently learning data mining, software engineering, web and mobile development
  - 👯 I’m looking to collaborate on various projects or various competitions
 
+### Connect with me :
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
