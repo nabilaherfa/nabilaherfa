@@ -11,7 +11,7 @@
 👔 [linkedin][linkedin]
 
 [twitter]: https://twitter.com/nabilaherfa/
-[instagram]: https://instagram.com/nabilaherfaa/
+[instagram]: https://instagram.com/nabilaherff/
 [linkedin]: https://www.linkedin.com/in/nabilaherfa/
 
 ### Have a nice day everyone!
