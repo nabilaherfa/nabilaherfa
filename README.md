@@ -8,9 +8,11 @@
 ### Connect with me :
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+📄 [medium][medium]
 
 [instagram]: https://instagram.com/nabilaherfaa/
 [linkedin]: https://www.linkedin.com/in/nabilaherfa/
+[medium]: https://nabilaherfariani8.medium.com/
 
 # 📖 My Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabilaherfa&show_icons=true&theme=dark&hide=issues,stars&include_all_commits=true&count_private=true)
