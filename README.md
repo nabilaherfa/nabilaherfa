@@ -19,8 +19,6 @@
 
 💾 **Technologies** : Git, MySQL
 
-*Currently Exploring* : ReactJs
-
 
 # 📖 My Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabilaherfa&show_icons=true&theme=dark&hide=issues,stars&include_all_commits=true&count_private=true)
