@@ -18,6 +18,7 @@
 💻 **Languages** : Java, Python, C++/C, C#, Javascript, Haskell
 
 💾 **Technologies** : Git, MySQL
+
 *Currently Exploring* : ReactJs
 
 
