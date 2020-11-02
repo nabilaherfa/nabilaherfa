@@ -6,11 +6,9 @@
  - 👯 I’m looking to collaborate on various projects or various competitions
 
 ### Connect with me :
-🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[twitter]: https://twitter.com/nabilaherfa/
 [instagram]: https://instagram.com/nabilaherfaa/
 [linkedin]: https://www.linkedin.com/in/nabilaherfa/
 
