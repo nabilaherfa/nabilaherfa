@@ -15,7 +15,7 @@
 [medium]: https://nabilaherfariani8.medium.com/
 
 # Languages and Technologies 
-💻 **Languages** : Java, Python, C++/C, C#, Javascript, Haskell
+💻 **Languages** : Java, Python, C++/C, C#, Javascript, PHP, Haskell
 
 💾 **Technologies** : Git, MySQL
 
